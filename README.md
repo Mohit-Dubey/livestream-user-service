@@ -169,4 +169,4 @@ docker run -p 8000:8000 --env-file .env user-service:latest
 
 ## Related Repositories
 
-- [livestream-stream-service](https://github.com/YOUR_USERNAME/livestream-stream-service) — Stream lifecycle + Ant Media Server integration
+- [livestream-stream-service](https://github.com/Mohit-Dubey/livestream-stream-service) — Stream lifecycle + Ant Media Server integration
